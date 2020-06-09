@@ -1,3 +1,3 @@
 # Finans
 
-Project with the purpose of studying Bruno technology
+Project with the purpose of studying Bootstrap technology
